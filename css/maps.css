@@ -1,0 +1,10 @@
+#mapID {
+  height: 620px;
+  width: 100%; }
+
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+  background: coral; }
+  .navigation label {
+    width: 200px; }
